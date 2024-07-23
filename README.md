@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. as a seb7a for azkar and counter and round how many times finesh Tasbe7
 
 A few resources to get you started if this is your first Flutter project:
 
